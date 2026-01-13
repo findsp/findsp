@@ -12,7 +12,7 @@ We are focused on **truly mind-bending and mind-warping audio applications**.
 
 - Our software is designed to **affect the consciousness of the artists using it, their audiences downstream, and everyone participating in the CTP / CTP-EOS ecosystem**.
 - FINDSP is plugged into the **[CTPSci Sciences](https://linkedin.com/company/ctp-energy)** the post-quantum / post-physics sciences of consciousness from the C-domain, and our work reflects that connection.  
-- Experimentation and prototyping remain central, but all projects are aligned with **system-level audio innovation** and the broader **CTP-EOS platform**.
+- Experimentation and prototyping remain central, but all projects are aligned with **system-level audio innovation** and the broader **CTP-EOS platform**. Note: all FINDSP software is originally developed on Linux. Future FINDSP releases will be available on most major platforms, though our brand identity is *Linux-centric*.
 
 ---
 
