@@ -1,4 +1,4 @@
-![Spectral Image](https://raw.githubusercontent.com/findsp/findsp/main/images/spectral/spectral-3.png)
+![Spectral Image](https://raw.githubusercontent.com/findsp/findsp/main/images/spectral/spectral-3-cropped.png)
 
 # FINDSP
 
