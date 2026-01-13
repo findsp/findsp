@@ -1,3 +1,5 @@
+![Spectral Image](https://raw.githubusercontent.com/findsp/findsp/main/images/spectral/spectral-1.png)
+
 # FINDSP
 
 FINDSP is the **Linux audio and software development front** for in-house systems running on **CTP-EOS Linux**. It is our primary platform for creating, experimenting with, and distributing audio software that spans open collaboration to private and commercial releases.
