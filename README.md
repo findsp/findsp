@@ -92,7 +92,7 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 
 ### DAWs
 ![DAW](https://img.shields.io/badge/DAW-Ableton-lightgreen?style=flat-square)
-![Genres](https://img.shields.io/badge/DAW-Biwig-green?style=flat-square)
+![Genres](https://img.shields.io/badge/DAW-Bitwig-green?style=flat-square)
 ![Genres](https://img.shields.io/badge/DAW-FastTrackerII-darkblue?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-FL%20Studio-orange?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-LMMS-blue?style=flat-square)
