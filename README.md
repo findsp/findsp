@@ -67,3 +67,44 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 
 ---
 
+### Platform & Ecosystem
+![Platform](https://img.shields.io/badge/platform-Linux-blue?style=flat-square)
+![Audio DSP](https://img.shields.io/badge/audio-DSP-critical?style=flat-square)
+![Ecosystem](https://img.shields.io/badge/CTP--EOS-native-black?style=flat-square)
+
+### Music Genres & Music Communities
+![Genres](https://img.shields.io/badge/Genres-Algorave-orange?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Chill-blue?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Chiptunes-red?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Dark%20Industrial-purple?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Electro-Industrial-green?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-EBM-cyan?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Futurist%20Bass-pink?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Goa-yellow?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Goa%20Trance-red?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Industrial-black?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Mod%20Trackers-lightgrey?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Psybient-teal?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Psytrance-magenta?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Trackers-brown?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Trance-purple?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Tech-Industrial-darkblue?style=flat-square)
+
+### DAWs
+![DAW](https://img.shields.io/badge/DAW-Ableton-lightgreen?style=flat-square)
+![DAW](https://img.shields.io/badge/DAW-FL%20Studio-orange?style=flat-square)
+![DAW](https://img.shields.io/badge/DAW-LMMS-blue?style=flat-square)
+![DAW](https://img.shields.io/badge/DAW-Renoise-red?style=flat-square)
+![DAW](https://img.shields.io/badge/DAW-Tracktion-purple?style=flat-square)
+
+### Tools / Languages / Dev
+![Dev](https://img.shields.io/badge/Dev-C++-blue?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-Csound-red?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-DSP-purple?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-Juce-green?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-Opcode-cyan?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-Producer-orange?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-Sox-blue?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-FFmpeg-red?style=flat-square)
+
+
