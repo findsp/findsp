@@ -94,7 +94,7 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 ![DAW](https://img.shields.io/badge/DAW-Ableton-lightgreen?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-FL%20Studio-orange?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-LMMS-blue?style=flat-square)
-![DAW](https://img.shields.io/badge/DAW-Milky%Tracker-blueviolet?style=flat-square)
+![DAW](https://img.shields.io/badge/DAW-Milky%25%20Tracker-blueviolet?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-Renoise-red?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-Tracktion-purple?style=flat-square)
 
