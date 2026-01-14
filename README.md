@@ -82,7 +82,7 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 ![Genres](https://img.shields.io/badge/Genres-Futurist%20Bass-pink?style=flat-square)
 ![Genres](https://img.shields.io/badge/Genres-Goa-yellow?style=flat-square)
 ![Genres](https://img.shields.io/badge/Genres-Goa%20Trance-red?style=flat-square)
-![Genres](https://img.shields.io/badge/Genres-Industrial-dark-grey?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-Industrial-darkgrey?style=flat-square)
 ![Genres](https://img.shields.io/badge/Genres-Mod%20Trackers-lightgrey?style=flat-square)
 ![Genres](https://img.shields.io/badge/Genres-Psybient-teal?style=flat-square)
 ![Genres](https://img.shields.io/badge/Genres-Psytrance-magenta?style=flat-square)
