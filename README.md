@@ -88,12 +88,13 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 ![Genres](https://img.shields.io/badge/Genres-Psytrance-magenta?style=flat-square)
 ![Genres](https://img.shields.io/badge/Genres-Trackers-brown?style=flat-square)
 ![Genres](https://img.shields.io/badge/Genres-Trance-purple?style=flat-square)
-![Genres](https://img.shields.io/badge/Genres-Tech-Industrial-darkblue?style=flat-square)
+![Genres](https://img.shields.io/badge/Genres-TechIndustrial-darkblue?style=flat-square)
 
 ### DAWs
 ![DAW](https://img.shields.io/badge/DAW-Ableton-lightgreen?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-FL%20Studio-orange?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-LMMS-blue?style=flat-square)
+![DAW](https://img.shields.io/badge/DAW-Milky%Tracker(X)-olive?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-Renoise-red?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-Tracktion-purple?style=flat-square)
 
