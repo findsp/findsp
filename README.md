@@ -2,7 +2,7 @@
 
 # FINDSP
 
-FINDSP is the **Linux audio and software development front** for in-house systems running on **CTP-EOS Linux**. <a href="https://www.linkedin.com/showcase/ctp-eos" target="_blank">CTP-EOS</a> is our primary platform for creating, experimenting with, and distributing audio software that spans open collaboration to private and commercial releases. CTP-EOS isn't just Linux—***"CTP-EOS™ is Linux for the Mind"*** FINDSP is the audio gateway to the C-domain.
+FINDSP is the **Linux audio and software development front** for in-house systems running on **CTP-EOS Linux**. <a href="https://www.linkedin.com/showcase/ctp-eos" target="_blank">CTP-EOS</a> is our primary platform for creating, experimenting with, and distributing audio software that spans open collaboration to private and commercial releases. CTP-EOS isn't just Linux—***"CTP-EOS™ is the Conscious OS!"*** FINDSP is the audio gateway to the C-domain.
 
 ---
 
