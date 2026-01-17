@@ -35,8 +35,8 @@ We aim to **hook artists and audiences** in these communities, providing softwar
 
 Developers working with FINDSP are expected to be familiar with:
 
-- **[Cabbage](https://cabbageaudio.com/)** – for VST and audio plugin development  
 - **[JUCE](https://juce.com/)** – Producer framework for modular and cross-platform audio applications  
+- **[Cabbage](https://cabbageaudio.com/)** – for VST and audio plugin development  
 - **CMake / GlibC** – standard build systems for Linux audio software  
 
 ### Core Linux Libraries & Dependencies
