@@ -133,7 +133,8 @@ We are actively working to bring **PlayerPRO to Linux**, with the following goal
 
 ## See it in Action
 
-🎵 Aphex Twin – *Vordhosbn* (PlayerPRO track): Watch Aphex Twin – *Vordhosbn* on YouTube: [https://www.youtube.com/watch?v=pAZo7x83it4](https://www.youtube.com/watch?v=pAZo7x83it4)
+🎵 Aphex Twin – *Vordhosbn* (PlayerPRO track): 
+Watch Aphex Twin – *Vordhosbn* on YouTube: [https://www.youtube.com/watch?v=pAZo7x83it4](https://www.youtube.com/watch?v=pAZo7x83it4)
   
 [![Vordhosbn](https://img.youtube.com/vi/pAZo7x83it4/0.jpg)](https://www.youtube.com/watch?v=pAZo7x83it4)
 
