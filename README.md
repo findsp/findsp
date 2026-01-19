@@ -114,11 +114,11 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 
 # ACTIVE PROJECTS
 
-# PlayerPRO Linux Port
+## PlayerPRO Linux Port
 
 ![PlayerPRO Screenshot](https://raw.githubusercontent.com/findsp/PlayerPRO/master/images/1.jpeg)
 
-## About the Project
+### About the Project
 
 **PlayerPRO** is a classic MAC tracker, famously used in Aphex Twin's *Vordhosbn* track.  
 
