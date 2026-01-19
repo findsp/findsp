@@ -110,4 +110,46 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 ![Dev](https://img.shields.io/badge/Dev-Sox-blue?style=flat-square)
 ![Dev](https://img.shields.io/badge/Dev-FFmpeg-red?style=flat-square)
 
+---
+
+# ACTIVE PROJECTS
+
+# PlayerPRO Linux Port
+
+![PlayerPRO Screenshot](https://raw.githubusercontent.com/findsp/PlayerPRO/master/images/1.jpeg)
+
+## About the Project
+
+**PlayerPRO** is a classic MAC tracker, famously used in Aphex Twin's *Vordhosbn* track.  
+
+We are actively working to bring **PlayerPRO to Linux**, with the following goals:
+
+- Fully working Linux port of the original PlayerPRO tracker  
+- New Makefile for Linux compilation  
+- Full Linux compatibility with **all original PlayerPRO plugins**  
+- Possible inclusion of SDK or resources for developers to create additional plugins  
+
+## See it in Action
+
+🎵 Aphex Twin – *Vordhosbn* (PlayerPRO track):  
+[![Vordhosbn](https://img.youtube.com/vi/pAZo7x83it4/0.jpg)](https://www.youtube.com/watch?v=pAZo7x83it4)
+
+> Click the image above to watch the track on YouTube.
+
+## Contributing
+
+We are looking for **developers and enthusiasts** to help realize this Linux port. If you have experience with:
+
+- Linux software development  
+- Makefile setup  
+- Audio plugin development  
+
+…we’d love your contributions!
+
+## Links
+
+- [Project Repository](https://github.com/findsp/PlayerPRO)
+
+
+Linux support has been added, but the makefile is bare-bones and plug-ins are currently not being built.
 
