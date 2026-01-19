@@ -129,6 +129,8 @@ We are actively working to bring **PlayerPRO to Linux**, with the following goal
 - Full Linux compatibility with **all original PlayerPRO plugins**  
 - Possible inclusion of SDK or resources for developers to create additional plugins  
 
+![PlayerPRO Mixer Screenshot - to add plugins](https://raw.githubusercontent.com/findsp/PlayerPRO/master/images/1%20(4).jpeg)
+
 ## See it in Action
 
 🎵 Aphex Twin – *Vordhosbn* (PlayerPRO track): Watch Aphex Twin – *Vordhosbn* on YouTube: [https://www.youtube.com/watch?v=pAZo7x83it4](https://www.youtube.com/watch?v=pAZo7x83it4)
