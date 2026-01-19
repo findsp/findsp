@@ -152,7 +152,7 @@ We are looking for **developers and enthusiasts** to help realize this Linux por
 
 ## Links
 
-- [Project Repository](https://github.com/findsp/PlayerPRO)
+- [FINDSP: PlayerPro Project Repository](https://github.com/findsp/PlayerPRO)
 
 
 Linux support has been added, but the makefile is bare-bones and plug-ins are currently not being built.
