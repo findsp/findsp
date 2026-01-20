@@ -151,7 +151,9 @@ Linux support has been added, but the makefile is bare-bones and plug-ins are cu
 ![DAW](https://img.shields.io/badge/DAW-Tracktion-purple?style=flat-square)
 
 ### Tools / Languages / Dev
-![Dev](https://img.shields.io/badge/Dev-C++-blue?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-Blue-blue?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-C++-cyan?style=flat-square)
+![Dev](https://img.shields.io/badge/Dev-Cabbage-green?style=flat-square)
 ![Dev](https://img.shields.io/badge/Dev-Csound-red?style=flat-square)
 ![Dev](https://img.shields.io/badge/Dev-DSP-purple?style=flat-square)
 ![Dev](https://img.shields.io/badge/Dev-Juce-green?style=flat-square)
