@@ -94,6 +94,17 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 
 # ACTIVE PROJECTS
 
+## Tutka 1.1.3 – Modern CTP-EOS/Debian MIDI Tracker 🐉    
+
+![Tutka Screenshot](https://raw.githubusercontent.com/findsp/tutka/main/images/tutka_screenshot.png)
+
+### About the Project
+
+
+Revitalized for 2026, Tutka is a lightweight, **MIDI-only chiptune sequencer** designed for GNU/Linux (Debian 13+ tested, Mac OS X source available). With full support for Tutka and OctaMED song formats, plus standard MIDI, it seamlessly integrates with hardware synths or software via ALSA/JACK/PipeWire. This release adds a ready-to-run binary, modern Qt5 compatibility, and streamlined build paths, making it **the fastest way to sequence retro-inspired music on modern systems**.
+
+---
+
 ## PlayerPRO Linux Port
 
 ![PlayerPRO Screenshot](https://raw.githubusercontent.com/findsp/PlayerPRO/master/images/1.jpeg)
