@@ -100,7 +100,7 @@ Designed to expand perception, influence consciousness, and explore **cross-doma
 
 ### About the Project
 
-Revitalized for 2026, Tutka is a lightweight, **MIDI-only tracker sequencer** designed for GNU/Linux (Debian 13+ tested, Mac OS X source available). With full support for Tutka and OctaMED song formats, plus standard MIDI, it seamlessly integrates with hardware synths or software via ALSA/JACK/PipeWire. This release adds a ready-to-run binary, modern Qt5 compatibility, and streamlined build paths, making it **the fastest way to sequence retro-inspired music on modern systems**.
+Revitalized for 2026, <a href="https://github.com/findsp/tutka" target="_blank">Tutka</a> is a lightweight, **MIDI-only tracker sequencer** designed for GNU/Linux (Debian 13+ tested, Mac OS X source available). With full support for Tutka and OctaMED song formats, plus standard MIDI, it seamlessly integrates with hardware synths or software via ALSA/JACK/PipeWire. This release adds a ready-to-run binary, modern Qt5 compatibility, and streamlined build paths, making it **the fastest way to sequence retro-inspired music on modern systems**.
 
 ---
 
