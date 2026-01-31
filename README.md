@@ -85,7 +85,7 @@ While fully supportive of open-source collaboration via the FINDSP Audio Group (
 
 ## FINDSP Audio Group (FINDSPAG)
 
-**FINDSP Audio Group (FINDSPAG)** is a federation of developers, engineers, and audio innovators collaborating under the CTP umbrella. Think of it as a **hub where contributions, projects, and tools are organized, listed, and easily discoverable**.  
+**[<a href="https://github.com/FINDSP-Audio-Group" target="_blank">FINDSP Audio Group (FINDSPAG)</a>](https://github.com/FINDSP-Audio-Group)** is a federation of developers, engineers, and audio innovators collaborating under the CTP umbrella. Think of it as a **hub where contributions, projects, and tools are organized, listed, and easily discoverable**.  
 
 We focus on **audio technology, music software, and hardware integration**, building everything from **chiptune sequencers and modular synth editors to legacy sampler modernization tools**. Our work bridges **classic hardware workflows with modern Linux/MIDI environments**, combining precision engineering, creative sound design, and open-source accessibility to empower musicians, producers, and developers alike.  
 
